@@ -151,7 +151,12 @@ li{
     padding: 13px;
     border-radius: 5px;
     color: white;
+    text-decoration: none;
+    /* font-style: italic; */
+}
 
+#syq{
+    text-decoration: none;
 }
 
 .are{
